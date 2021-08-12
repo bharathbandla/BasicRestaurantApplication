@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/drawable/card_bg.xml" value="0.37604166666666666" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/drawable/dialog_bg.xml" value="0.37604166666666666" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/activity_cart.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/activity_log_in.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/activity_main.xml" value="0.3458333333333333" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/bottom_bill.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/cart_single_product.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/dialog_layout.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/log_btn_background.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/menu_top.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/only_single_product.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/single_item.xml" value="0.35989583333333336" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/layout/single_product.xml" value="0.20104166666666667" />
+        <entry key="..\:/files/android/androidWork/RestaurantApp/app/src/main/res/menu/menu_top.xml" value="0.35989583333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
