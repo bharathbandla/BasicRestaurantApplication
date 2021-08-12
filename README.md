@@ -8,10 +8,18 @@ This is very basic restaurant app, where we have login screen, home screen, cart
 ![3](https://user-images.githubusercontent.com/82259446/129228961-490f9c59-0237-4f48-93c2-60b87627b16f.png)
 ![4](https://user-images.githubusercontent.com/82259446/129228972-94b688b5-139b-4664-bf71-7f93b6181d7a.png) -->
 
+<p float="left">
+  
 <img src="https://user-images.githubusercontent.com/82259446/129228921-d6e80fa9-bece-4834-a211-95cc58ac9116.png"  width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/82259446/129228953-a3133aaf-badf-4c96-aa7f-46f50dacb826.png"  width="200" height="400" />
+</p>
+
+<p float="left">
+  
 <img src="https://user-images.githubusercontent.com/82259446/129228961-490f9c59-0237-4f48-93c2-60b87627b16f.png"  width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/82259446/129228972-94b688b5-139b-4664-bf71-7f93b6181d7a.png"  width="200" height="400" />
+</p>
+
 
 <br/>
 
