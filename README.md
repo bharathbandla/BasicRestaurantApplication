@@ -37,8 +37,11 @@ In the Cart User can remove or add required quantity of a product <br/>
 In the Run Time itself total bill and products count shown to the user <br/>
 
 # Video Links :)
+
 <br/>
+
 # Login Screen
+
 [![BasicRestaurantApplication](https://img.youtube.com/vi/PkVIWNY4xKE/0.jpg)](https://www.youtube.com/watch?v=PkVIWNY4xKE)
 
 # Home Screen
